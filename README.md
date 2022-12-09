@@ -1,1 +1,1 @@
-# ComputerVision
+# Canny Edge Detector
